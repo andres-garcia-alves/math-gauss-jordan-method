@@ -4,7 +4,14 @@ An implementacion of Gauss-Jordan method to solve systems of linear equations, d
 
 &nbsp;
 
+### Version History
+
+v1.0 (2020.04.20) - Initial release.  
+
 This is the first public release of this project.  
 Developed for subject 'Taller de Lenguajes II', at CAECE University, Buenos Aires, Argentina.  
 
-Please send me your feedback about this app: andres.garcia.alves@gmail.com
+&nbsp;
+
+This source code is licensed under GPL v3.0  
+Please send me your feedback about this project: andres.garcia.alves@gmail.com
